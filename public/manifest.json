@@ -1,7 +1,7 @@
 {
   "name": "Free AI",
   "short_name": "FreeAI",
-  "description": "Free AI powered by OpenRouter - Chat with qwen/qwen3.6-plus-preview model for free",
+  "description": "Free AI powered by OpenRouter - Chat with nvidia/nemotron-3-ultra-550b-a55b model for free",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0f0f1a",

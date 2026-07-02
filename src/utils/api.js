@@ -1,5 +1,5 @@
 const OPENROUTER_API_URL = 'https://openrouter.ai/api/v1/chat/completions'
-const MODEL = 'qwen/qwen3.6-plus-preview'
+const MODEL = 'nvidia/nemotron-3-ultra-550b-a55b'
 
 export async function sendMessageToAI(message, apiKey) {
   if (!apiKey) {

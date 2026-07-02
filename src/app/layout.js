@@ -2,8 +2,8 @@ import './globals.css'
 
 export const metadata = {
   title: 'Free AI - Free AI Chat Assistant',
-  description: 'Free AI powered by OpenRouter - Chat with qwen/qwen3.6-plus-preview model for free',
-  keywords: 'free AI, AI chat, artificial intelligence, OpenRouter, qwen/qwen3.6-plus-preview',
+  description: 'Free AI powered by OpenRouter - Chat with NVIDIA Nemotron 3 Ultra model for free',
+  keywords: 'free AI, AI chat, artificial intelligence, OpenRouter, NVIDIA Nemotron',
   authors: [{ name: 'Free AI' }],
   openGraph: {
     title: 'Free AI - Free AI Chat Assistant',

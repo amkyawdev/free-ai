@@ -13,7 +13,7 @@ export default function Header() {
       />
       <div>
         <h1 className="header-title">Free AI</h1>
-        <p className="header-subtitle">Powered by OpenRouter • qwen/qwen3.6-plus-preview</p>
+        <p className="header-subtitle">Powered by OpenRouter • NVIDIA Nemotron 3 Ultra</p>
       </div>
     </header>
   )

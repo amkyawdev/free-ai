@@ -28,7 +28,7 @@ export default function AiHero({ onSendMessage, messages, isLoading }) {
             />
             <p>Start a conversation with Free AI</p>
             <p style={{ fontSize: '0.85rem', marginTop: '0.5rem' }}>
-              Ask me anything - I&apos;m powered by qwen/qwen3.6-plus-preview
+              Ask me anything - I&apos;m powered by NVIDIA Nemotron 3 Ultra
             </p>
           </div>
         ) : (
