@@ -1,5 +1,5 @@
 const OPENROUTER_API_URL = 'https://openrouter.ai/api/v1/chat/completions'
-const MODEL = 'liquid/lfm-2.5-1.2b-thinking:free'
+const MODEL = 'Qwenqwen3.6-plus-preview'
 
 export async function sendMessageToAI(message, apiKey) {
   if (!apiKey) {
