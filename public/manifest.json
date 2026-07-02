@@ -1,7 +1,7 @@
 {
   "name": "Free AI",
   "short_name": "FreeAI",
-  "description": "Free AI powered by OpenRouter - Chat with liquid/lfm-2.5-1.2b-thinking model for free",
+  "description": "Free AI powered by OpenRouter - Chat with qwen/qwen3.6-plus-preview model for free",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0f0f1a",

@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  A modern, beautiful AI chat web application powered by OpenRouter API with the liquid/lfm-2.5-1.2b-thinking model.
+  A modern, beautiful AI chat web application powered by OpenRouter API with the qwen/qwen3.6-plus-preview model.
 </p>
 
 ---
@@ -27,7 +27,7 @@
 
 | Feature | Description |
 |---------|-------------|
-| 🤖 **Free AI Chat** | Chat with liquid/lfm-2.5-1.2b-thinking model at no cost |
+| 🤖 **Free AI Chat** | Chat with qwen/qwen3.6-plus-preview model at no cost |
 | 🎨 **Modern UI** | Beautiful gradient design with smooth animations |
 | 📱 **PWA Ready** | Install as a Progressive Web App on any device |
 | ⚡ **Fast Performance** | Built with Next.js 14 App Router |
